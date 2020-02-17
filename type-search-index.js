@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.adrianargint","l":"Groups"},{"p":"com.adrianargint","l":"HumanBeing"},{"p":"com.adrianargint","l":"Main"},{"p":"com.adrianargint","l":"Node"},{"p":"com.adrianargint","l":"Person"},{"p":"com.adrianargint","l":"PriorityQueue"},{"p":"com.adrianargint","l":"Ticket"}]
